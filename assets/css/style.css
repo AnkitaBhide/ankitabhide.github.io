@@ -80,6 +80,10 @@ border: 7px solid #18d26e;
       margin-left: 30px;
 } 
 
+.header-top .info{
+  display: none;
+}
+
 .about-img{
   text-align: center;
 }
@@ -93,6 +97,10 @@ border: 7px solid #18d26e;
 .accordion-body {
     padding: 1rem 1.25rem;
     color: #000;
+}
+
+.info{
+      margin-top: 30px;
 }
 /*.avtaranimation > div {
   top:100px;
@@ -194,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 #header .social-links {
-  margin-top: 40px;
+  margin-top: 20px;
   display: flex;
 }
 #header .social-links a {
