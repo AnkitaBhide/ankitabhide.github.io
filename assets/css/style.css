@@ -31,6 +31,34 @@ body::before {
  float: right;
 } 
 
+.nav-tabs .nav-link.active {
+    color: #efefef;
+    background-color: #202529;
+    border-color: #000000 #000000 #fff;
+}
+
+.nav-link{
+      padding: 0.5rem 3rem;
+}
+
+.nav {
+    margin-bottom: 18px;
+}
+
+.nav-link:hover {
+    color: #ffffff;
+}
+
+.nav-tabs .nav-link:hover {
+    border-color: #202529 #202529 #dee2e6;
+    isolation: isolate;
+    background: #202529;
+}
+
+.nav-link{
+  color:#fff;
+  }
+
 
 
 .avtaranimation > div {
