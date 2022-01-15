@@ -1,0 +1,300 @@
+{
+    "title": "Ankita Bhide",
+    "subTitle":"I'm a passionate Web Developer | Frontend Developer from Pune, India",
+    "navLinks": [{
+        "navTitle":"Home",
+        "navPath":"/home"
+    },
+    {
+        "navTitle":"About",
+        "navPath":"/aboutme"
+    },
+    {
+        "navTitle":"Skills",
+        "navPath":"/skills"
+    },
+    {
+        "navTitle":"Experience",
+        "navPath":"/experience"
+    },
+    {
+        "navTitle":"Project",
+        "navPath":"/projects"
+    },
+    {
+        "navTitle":"Study-Material",
+        "navPath":"/study-material"
+    },
+    {
+        "navTitle":"Contact",
+        "navPath":"/contactus"
+    }
+],
+
+    "email":"ankita.bhide@gmail.com",
+    "contactNo":"+919011688002",
+    "technologies":["assets/img/angularjs.svg","assets/img/html-5.svg","assets/img/css-3.svg","assets/img/bootstrap.svg","assets/img/mysql.svg"],
+    "smallAbout":"About",
+    "aboutTitle":"KNOW MORE ABOUT ME",
+    "aboutSubTitle": "Web Developer | Frontend Developer",
+    "aboutContent":[{
+        "content":"I've utilized my 5 years of experience in Frontend development and web development. It always seems impossible until it's done. I strongly believe that life begins at the end of the comfort zone, hence I started hunting for challenges and am eager to explore new areas. You will never earn until you learn."
+        },
+        {
+        "content":"In this 5 years of experience I worked into multiple domain and technolgies. In my past work experiences, I've got the opportunity to lead the projects independantly as wll as in a team. I worked on various technologies HTML5, CSS, JS, Bootstrap, PHP, Jquery. I've also worked on CMS platform for building ecommerce applications. Currently I'm also working in Angular. I've used GIT and bitbucket for maintaining the code through repository, branching strategy."
+        },
+        {
+        "content":"I worked into multiple domain like Ecommerce, B2B/B2c, Automobile and media and marketing. I've design and developped interactive and unique website and application from scratch.where my role was to design n develop responsive website and application and maintain, pixcel perfect design, Agile developmetn methodolies with sprint planning and processes, Co-ordinate with client and multiple departments. HTML implementation from PSD to HTML."
+        },
+        {
+        "content":"I've recreate user experience slider, portfolio with a new way."
+        }
+    ],
+
+    "aboutInfo":[{
+        "title": "Birthday", 
+        "content":"15 december 1991"
+    },
+    {
+        "title":"Website",
+        "content":"https://ankitabhide.github.io",
+        "contentUrl":"https://ankitabhide.github.io"
+    },
+    {
+        "title":"City",
+        "content":"Pune, India"
+    },
+    {
+        "title":"Degree",
+        "content":"Master"
+    },
+    {
+        "title":"Email",
+        "content":"ankeeta.bhide@gmail.com",
+        "contentUrl":"mailto:ankeeta.bhide@gmail.com"
+    },
+    {
+        "title":"contactNo",
+        "content":"+91 9011688002",
+        "contentUrl":"tel:+919011688002"
+    }
+
+],
+
+    "socialMedia":[{
+        "link":"https://www.facebook.com/bhide.ankita",
+        "class":"facebook"
+    },
+    {
+        "link":"https://www.instagram.com/ankita.bhide/",
+        "class":"instagram" 
+    },
+    {
+        "link":"https://www.linkedin.com/in/ankita-bhide-9657701a0/",
+        "class":"linkedin"
+    }
+
+],
+
+"smallExperience":"EXPERIENCE",
+"experienceTitle":"Professional Experience",
+"company":[{
+    "position":"SENIOR WEB DEVELOPER",
+    "year":"2020 - 2021",
+    "companyName":"Skovian Venture, Pune, India",
+    "content":"Independently lead the crucial project successfully as well as in team",
+    "skills":["HTML5, CSS3, Bootstrap(version 5, 4 ), PHP, JavaScript.","Front End Framework: Angular 10,12, WordPress, Magento, Shopify, Elementor, Wp-bakers, Payment gateway Integration",
+                "Project management tool: Zoho. PSD to HTML, Optimization, SEO principles.","GitHub, Bitbucket for maintaining the code"
+              ],
+    "responsibilties":["Create a unique and creative website and applications from scratch.",
+        "Front End Framework: Angular 10,12, WordPress, Magento, Shopify, Elementor, Wp-bakers, Payment gateway Integration",
+        "Project management tool: Zoho. PSD to HTML, Optimization, SEO principles.",
+        "GitHub, Bitbucket for maintaining the code"
+    ]
+},
+
+{
+    "position":"SENIOR WEB DEVELOPER",
+    "year":"2017 - 2020",
+    "companyName":"Saket Communications Pvt. Ltd, Pune, India",
+    "content":"Recognition for leading the project successfully and maintaining those projects for the long term.",
+    "skills":["HTML5, CSS3, Bootstrap, JavaScript, jQuery. PHP, WordPress.",
+        "Responsive website development, Pixel perfect design. Media queries.",
+        "PSD to HTML. CMS platform: WordPress, Magento, Shopify.",
+        "Git and bitbucket. Worked on Speed optimization and security features",
+        "Developed unique, creative and interactive websites and applications from scratch."
+    ],
+    "responsibilties":["Create a unique and creative website and applications from scratch.",
+    "Front End Framework: Angular 10,12, WordPress, Magento, Shopify, Elementor, Wp-bakers, Payment gateway Integration",
+    "Project management tool: Zoho. PSD to HTML, Optimization, SEO principles.",
+    "GitHub, Bitbucket for maintaining the code."
+    ]
+
+},
+
+{
+    "position":"WEB DEVELOPER",
+    "year":"2016 - 2017",
+    "companyName":"Till It Clicks, Pune, India",
+    "skills":["HTML5, CSS3, Bootstrap, JavaScript, jQuery, PHP, WordPress.",
+                "Responsive website development, Media queries.",
+                "Implementation from PSD to HTML.",
+                "CMS platform: WordPress, Magento, Shopify.",
+                "Developed unique, creative and interactive websites and applications from scratch."
+            ],
+    "responsibilties":["Develop clean and structured HTML, CSS code according to design specifications.", 
+        "Agile development methodology with sprint planning and processes, GIT, bitbucket for managing code, Branching strategy",
+        "Worked on optimization, Plugin integration. Technical support.",
+        "Implement SEO principles. Create a beautiful user experience, Landing pages, Emailers.",
+        "Got The opportunity to work on multiple domain and technologies."
+    ]
+}
+
+],
+
+"smallProject":"PROJECTS",
+"projectTitle":"PROJECT SUMARY",
+"sumary":"Sumary",
+"project":[
+    {
+        "title":"TOURS AND TRAVELS",
+        "content":"Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.",
+        "list":["Worked on large application. worked on multiple components such as Tour Master and Tour Registration.",
+                "Worked on UI component development, Directives, Routing, Template driven form, multi step wizard, validation.",
+                "Angular 12, ng-bootstrap, MySQL, API integration",
+                "Used custom pipe for the countdown and implement authguard for security and role management."
+                ]
+    },
+    {
+        "title":"WORKED ON VARIOUS PROJECTS FOR B2B AND B2C DOMAIN",
+        "list":["Develop unique, creative, and interactive websites and applications from scratch according to the design specifications.",
+                "Lead the projects independently as well as in team. Also worked as scrum master and kept smooth development flow.",
+                "Responsive development and pixel perfect design, Implementation from PSD to HTML, Media queries",
+                "HTML5, CSS3, JavaScript, jQuery, bootstrap 4,5, PHP, MySql, WordPress.",
+                "Speed optimization and security features, SEO principles.",
+                "Agile development methodology with sprint planning and processes.",
+                "Git, Bitbucket for managing code, branching strategy.",
+                "Crate landing pages and Emailers."
+                ]
+    },
+    {
+        "title":"WORKED ON VARIOUS PROJECTS FOR ECOMMERCE APPLICATION",
+        "list":["Develop clean and structured HTML, CSS code according to design specifications.",
+                "Worked on CMS platform: Woo commerce, Magento, Shopify.",
+                "Developed eCommerce application, Payment gateway integration, Woo-commerce, Elementor, Wp-bakers.",
+                "Speed optimization and security features, content updatation."
+                ]
+    },
+    {
+        "title":"WORKED FOR CLIENT IN MEDIA AND MARKETING, AUTOMOBILE",
+        "list":["Developed beautiful user experiences and Interfaces, implemented customized requirements.",
+                "Co-ordinate with client and various internal department.",
+                "Agile development with sprint planning and processes",
+                "Responsive development, HTML5, CSS3, Scss ,Bootstrap 5, 4, JavaScript, jQuery, PHP, GIT.",
+                "Develop unique, creative and interactive websites and applications from scratch. Landing pages, Emailers",
+                "Succeeds to maintain client for long term."
+                ]
+    }
+    
+],
+
+    "smallSkill":"SKILL",
+    "skillTitle":"CHECK MY SKILL SET",
+    "skillSet":
+       [{
+            "title":"Angular",
+            "persentage":"85"
+        },
+        {
+            "title":"Javascript",
+            "persentage":"80"
+        },
+        {
+            "title":"HTML5",
+            "persentage":"90"
+        },
+        {
+            "title":"BOOTSTRAP",
+            "persentage":"90"
+        },
+        {
+            "title":"CSS3",
+            "persentage":"90"
+        },
+        {
+            "title":"WORDPRESS/CMS",
+            "persentage":"90"
+        },
+        {
+            "title":"GITHUB & BITBUCKET",
+            "persentage":"80"
+        }, 
+        
+        {
+            "title":"RESPONSIVE DESIGN",
+            "persentage":"90"
+        },
+        {
+            "title":"PHP",
+            "persentage":"65"
+        },
+        {
+            "title":"ECOMMERCE APPLICATION",
+            "persentage":"80"
+        },
+        {
+            "title":"AGILE",
+            "persentage":"70"
+        },
+        {
+            "title":"WEBSITE SPEED OPTIMIZATION & SECURITY FEATURES",
+            "persentage":"90"
+        },
+        {
+            "title":"KNOWLEDGE OF SEO PRINCIPLES",
+            "persentage":"75"
+        }],
+
+        "otherSkillTitle":"Other Skill",
+        "otherSkill":["Good interpersonal","problem-solving", 
+                    "Leadership", "Good Communication", 
+                    "Technological adaptability","Creative & Dedicated", "Enthusiastic"],
+        "smallContact":"Contact",
+        "contactTitle":"CONTACT ME",
+        "contactInfo":[{
+                "title":"My Address",
+                "content":"Rambaug Colony, Kothrud, Pune, India."
+            },
+            {
+                "title":"Social Profile",
+                "socialMedia":[{
+                    "link":"https://www.facebook.com/bhide.ankita",
+                    "class":"facebook"
+                },
+                {
+                    "link":"https://www.instagram.com/ankita.bhide/",
+                    "class":"instagram" 
+                },
+                {
+                    "link":"https://www.linkedin.com/in/ankita-bhide-9657701a0/",
+                    "class":"linkedin"
+                }]
+            },
+            {
+                "title":"Email",
+                "content":"ankeeta.bhide@gmail.com",
+                "contentUrl":"mailto:ankeeta.bhide@gmail.com"
+            },
+            {
+                "title":"contactNo",
+                "content":"+91 9011688002",
+                "contentUrl":"tel:+919011688002"
+            }]
+    
+    }
+
+
+
+
+
+
